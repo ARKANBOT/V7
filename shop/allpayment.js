@@ -1,29 +1,29 @@
 const allpayment = (prefix) => {
-return `PAYMENT BY ΛᄂPΉΛ BӨƬ
+return `PAYMENT BY IKHSAN BOT
 
 *🏧 BANK*
 
 1. BRI 
-	ㅁ 8881 0887 4350 47326
+	ㅁ -
 2. BCA 
-	ㅁ 3901 0887 4350 47326
+	ㅁ -
 3. BNI 
-	ㅁ 881 0887 4350 47326
+	ㅁ -
 4. PERMATA
-	ㅁ 852 8887 4350 47326
+	ㅁ -
 	
 *💰 E-MONEY*
 
 1. GOPAY
-	ㅁ 089605393009
+	ㅁ 085255115854
 2. OVO
-	ㅁ 089605393009
+	ㅁ 085255115854
 3. DANA
-	ㅁ 089605393009
+	ㅁ 085255115854
 	
-Semuanya atas nama hafiz
+Semuanya atas nama (chat owner aja)
 
-*📲 PULSA*
+*📲 PULSA* 085255115854
 
 Hubungi owner terlebih dahulu
 	
